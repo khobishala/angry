@@ -21,6 +21,7 @@
     "/wp-admin/network/",
     "/wp-admin/js/",
     "/cgi-bin/",
+    "/vendor/phpunit/phpunit/src/Util/PHP/",
     "/wp-admin/css/colors/midnight/",
     "/wp-includes/rest-api/",
     "/wp-includes/block-supports/",
