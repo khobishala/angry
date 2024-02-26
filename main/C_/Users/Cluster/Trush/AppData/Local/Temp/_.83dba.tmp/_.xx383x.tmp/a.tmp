@@ -440,7 +440,6 @@
     "/.well-known/plugins.php",
     "/wp-includes/sodium_compat/autoload-private.php",
     "/wp-includes/block-patterns/about.php",
-    "/moon.php",
     "/.well-known/pki-validation/x.php",
     "/wp-includes/Text/index.php",
     "/wp-content/link.php",
