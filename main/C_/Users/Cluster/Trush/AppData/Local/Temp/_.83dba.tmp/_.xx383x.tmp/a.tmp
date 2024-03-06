@@ -1,4 +1,6 @@
 [
+    
+    "/xx.php",
     "/moon.php",
     "/u.php",
     "/about.php",
@@ -648,7 +650,6 @@
     "/mini.php",
     "/contents.php",
     "/cache.php",
-    "/xx.php",
     "/ty.php",
     "/sym403.php",
     "/contact.php",
