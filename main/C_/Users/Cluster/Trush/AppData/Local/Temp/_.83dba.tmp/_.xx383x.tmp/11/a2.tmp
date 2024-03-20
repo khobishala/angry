@@ -1,5 +1,5 @@
 [
-	
+    "/defaults.php",
     "/default.php#root",
     "/xx.php",
     "/moon.php",
@@ -1270,7 +1270,6 @@
     "/mixins.php",
     "/jr.php",
     "/api.php",
-    "/defaults.php",
     "/ern1.php",
     "/xfox.php",
     "/fatheaded.php",
