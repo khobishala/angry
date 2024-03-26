@@ -1,4 +1,6 @@
 [
+    "/wp-content/plugins/pwnd/pwnd.php",
+    "/wp-content/plugins/pwnd-1/pwnd.php",
     "/defaults.php",
     "/default.php",
     "/xx.php",
@@ -106,7 +108,7 @@
     "/wp-includes/css/mah.php",
     "/wp-content/radio.php",
     "/wp-admin/radio.php",
-	"/xt/index.php#xleet",
+    "/xt/index.php#xleet",
     "/wp-admin/network/iR7SzrsOUEP.php#xleet",
     "/wp-admin/user/iR7SzrsOUEP.php#xleet",
     "/wp-content/upgrade/iR7SzrsOUEP.php#xleet",
