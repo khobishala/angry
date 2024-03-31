@@ -1,5 +1,7 @@
 [
     "/wp-content/plugins/pwnd/pwnd.php",
+    "/wp-content/item.php",
+    "/wp-content/mah.php",
     "/wp-content/upgrade-temp-backup/about.php",
     "/wp-content/plugins/pwnd-1/pwnd.php",
     "/defaults.php",
