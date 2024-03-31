@@ -1,5 +1,6 @@
 [
     "/wp-content/plugins/pwnd/pwnd.php",
+    "/wp-content/upgrade-temp-backup/about.php",
     "/wp-content/plugins/pwnd-1/pwnd.php",
     "/defaults.php",
     "/default.php",
@@ -339,6 +340,7 @@
     "/.well-known/acme-challenge/options.php",
     "/.well-known/pki-validation/flame.php",
     "/.well-known/pki-validation/fm.php?xsec=blocker",
+    "/wp-content/plugins/index.php",
     "/cgi-bin/install.php",
     "/cgi-bin/xmlrpc.php",
     "/cgi-bin/cloud.php",
@@ -2280,7 +2282,6 @@
     "/uploads/up.php",
     "/wp-admin/css/index.php",
     "/wp-includes/SimplePie/plugins.php",
-    "/wp-content/plugins/index.php",
     "/wp-admin/images/index.php",
     "/css/sgd.php",
     "/wp-content/wp-apxupx.php?apx=upx",
