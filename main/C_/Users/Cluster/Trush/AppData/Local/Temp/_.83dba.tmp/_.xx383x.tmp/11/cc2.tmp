@@ -227,7 +227,6 @@
     "WebShellOrb 2.6",
     "[+] MINI SH3LL BYPASS [+]",
     "ineSec Team Shell",
-    "TheAlmightyZeusvalue=Upload",
     "FileManager Version 0.2 by ECWS",
     "input type=\"submit\" name=\"submit\" value=\"Upload\"",
     "input type=\"file\" name=\"upload\"",
@@ -239,5 +238,6 @@
     "<input type=\"file\" id=\"upload\" name=\"upload\"",
     "input type=\"file\" name=\"gecko-file\"",
     "Enjoy it </h1><html><head><title>Upload files...<",
+    "input type=\"password\" name=\"pwdyt\" value=\"\" placeholder=\"passwd\"",
     "input type=\"password\" name=\"pwdyt\" value=\"\" placeholder=\"passwd\""
 ]
