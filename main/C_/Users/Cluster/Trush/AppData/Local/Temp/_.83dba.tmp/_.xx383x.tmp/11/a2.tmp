@@ -2161,7 +2161,7 @@
     "/wp-includes/Requests/Transport/reverse.php",
     "/admin/field.php",
     "/wp-admin/ajax-actions.php",
-    "/wp-includes/fonts/index.php"
+    "/wp-includes/fonts/index.php",
     "/wp-admin/includes/sts.php",
     "/wp-content/library.php",
     "/images/icons/content.php",
