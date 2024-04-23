@@ -1,5 +1,10 @@
 [
     "/wp-content/plugins/pwnd/pwnd.php",
+    "/wp-aa.php",
+    "/wp-content/plugins/work-list/lang.php",
+    "/wp-content/themes/bute/lang.php",
+    "/wp-content/themes/aahana/json.php",
+    "/wp-content/themes/travel/issue.php",
     "/wp-content/item.php",
     "/ext.php",
     "/wp-content/mah.php",
