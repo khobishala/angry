@@ -1,4 +1,5 @@
 [
+"/wp-add.php?a=c",
 "/nf_tracking.php#password",
 "/dir.php",
 "/dirs.php",
@@ -87,7 +88,6 @@
 "/defaul1.php#UEjlZcWL",
 "/setup.php#prive8sha1",
 "/pm.php#root",
-"/cron.php#root",
 "/ok.php#lufix",
 "/lfix.php#lufix",
 "/blog/wp-includes/wso.php#UEjlZcWL",
@@ -453,7 +453,6 @@
 "/option-old.php#UEjlZcWL",
 "/sellex.php#sellex",
 "/shell.php#root",
-"/sts.php#xleet",
 "/styles.php#root",
 "/taw.php#xleet",
 "/up.php#xleet",
