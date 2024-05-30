@@ -1,5 +1,4 @@
 [
-
 "/content.php#xleet",
 "/wp-add.php?a=c",
 "/nf_tracking.php#password",
@@ -925,7 +924,6 @@
 "/fatal.php",
 "/assets/images/beence.php",
 "/wp-includes/sodium_compat/autoload-private.php",
-"",
 "/wp-includes/images/crystal/wp-load.php",
 "/wp-includes/y.php",
 "/templates/beez5/index.php",
@@ -941,7 +939,6 @@
 "/wp-includes/js/jcrop/about.php",
 "/wp-includes/js/tinymce/skins/lightgray/fonts/about.php",
 "/wp-includes/js/tinymce/langs/about.php",
-"/wp-includes/js/tinymce/plugins/compat3x/css/index.php",
 "/wp-includes/js/tinymce/skins/lightgray/img/index.php",
 "/wp-includes/js/tinymce/utils/wp-tinymce.php",
 "/wp-admin/includes/tiny.php",
@@ -1297,7 +1294,6 @@
 "/wp-includes/ID3/readme.php",
 "/wp-includes/pomo/bypass.php",
 "/wp-includes/images/wlw/searchengine.php",
-"/css/index.php",
 "/wp-includes/repeater.php",
 "/img/ini.php",
 "/wp-includes/SimplePie/comment.php",
