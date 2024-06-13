@@ -1,0 +1,17 @@
+[
+    "/vendor/phpunit/phpunit/src/Util/PHP/",
+    "/.tmb/",
+    "/.wp-cli/",
+    "/wordpress/",
+    "/v2/",
+    "/backend/",
+    "/assets/lib/tinymce/plugins/textpattern/",
+    "/lib/tinymce/plugins/textpattern/",
+    "/assets/contao/",
+    "/assets/contao/css/",
+    "/wp-content/uploads/2023/05/",
+    "/wp-admin/css/colors/midnight/",
+    "/wp-content/",
+    "/wp-includes/theme-compat/",
+    "/js/"
+]
