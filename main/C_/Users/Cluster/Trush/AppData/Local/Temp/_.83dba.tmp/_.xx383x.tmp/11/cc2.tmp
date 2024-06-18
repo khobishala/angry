@@ -233,5 +233,6 @@
     "input type=\"file\" name=\"fileToUpload\" id=\"fileToUpload\"",
     "<input type=\"file\" id=\"upload\" name=\"upload\"",
     "Enjoy it </h1><html><head><title>Upload files...<",
-    "<input name=\"_upl\" type=\"submit\" id=\"_upl\" value=\"Upload\">"
+    "<input name=\"_upl\" type=\"submit\" id=\"_upl\" value=\"Upload\">",
+    "<title>PHP File Manager</title>"
 ]
