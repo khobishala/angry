@@ -1728,7 +1728,6 @@
 "/wp-includes/css/css.php",
 "/wp-content/plugins/custom/issue.php",
 "/wp-includes/defaults.php",
-"/wp-admin/admin-ajax.php",
 "/wp-admin/options.php",
 "/wp-content/inputs.php",
 "/wp-includes/mani.php",
